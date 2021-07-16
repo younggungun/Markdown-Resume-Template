@@ -1,7 +1,7 @@
 <center>
-     <h1 align="left">鲁杨</h1>
- </center>
-
+     <h1 align="left">鲁杨</h1>  <image src="https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG" width="400px" align="left">
+</center>
+![](https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG)
 个人信息 
 
 - 性 别：男年 龄：29  
@@ -11,7 +11,7 @@
 工作及教育经历
 
 - 南京师范大学2017.9~2019.7 测绘工程-研究生 
-- 读研前所在公司-南京地铁2019.8~至今 工务分公司-监测中心-结构监护工程               
+- 读研前所在公司-南京地铁2019.8~至今 工务分公司-监测中心-结构监护工程师               
 - 石家庄铁道大学2013.9~2017.7 测绘工程-本科  
 
 专业技能
