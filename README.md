@@ -1,7 +1,7 @@
 <center>
-     <h1 align="left">鲁杨</h1>  <image src="https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG" width="400px" align="left">
+      <image src="https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG" width="400px" align="right">
+     <h1 align="left">鲁杨</h1> 
 </center>
-![](https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG)
 个人信息 
 
 - 性 别：男年 龄：29  
