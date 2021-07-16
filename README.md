@@ -1,5 +1,5 @@
 <center>
-      <image src="https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG" width="400px" align="right">
+      <image src="https://github.com/younggungun/younggungun.github.io/blob/master/images/mmexport1529566104643.jpg" width="200px" align="right">
      <h1 align="left">鲁杨</h1> 
 </center>
 个人信息 
